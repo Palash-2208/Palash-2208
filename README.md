@@ -59,7 +59,6 @@
   <img src="https://github.com/Palash-2208/Palash-2208/blob/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </div>
 
----
 
 ### 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/b-palash-3a11b51b2)
