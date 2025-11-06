@@ -1,130 +1,72 @@
-<!-- profile view count -->
-<img align="right" src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME">
-
-<!-- introduction -->
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+There!+👋;+I'm+a+Full+Stack+Developer!;&center=true&font=Righteous&size=35">
-  </a>
-</h1>
-
-<br />
-
-<!-- about me -->
-<p align="center">
-  I'm a passionate <b>Developer</b> specializing in modern web technologies 🌐.  
-  <br /><br />
-  💻 I build scalable and efficient web applications using cutting-edge tools and frameworks.  
-  <br />
-  📚 Currently learning advanced deployment and DevOps concepts.  
-  <br />
-  ⚡ Football enthusiast during free time.  
-  <br /><br />
-</p>
-
-<!-- social links -->
-<div align="center"> 
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <!-- Gmail -->
-  <a href="mailto:your.email@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <!-- GitHub -->
-  <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</div>
-
-<hr />
-
-<!-- skills section -->
-<h2 align="center">🚀 Tech Stack 🚀</h2>
-<br />
-<p align="center">
-  <a href="https://skillicons.dev">
-    <!-- First Row -->
-    <img src="https://skillicons.dev/icons?i=java,js,html,css,react,nextjs,tailwind,scss&theme=light" />
-    <br />
-    <!-- Second Row -->
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql,spring,swagger,docker&theme=light" />
-  </a>
-</p>
-
-<hr />
-
-<!-- deployment -->
-<h3 align="center">⚙️ Tools & Deployment ⚙️</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vercel,netlify,githubactions&theme=light" alt="deployment tools" />
-  </a>
-</p>
-
-<hr />
-
-<!-- snake animation -->
+<!-- 💻 Profile README for Palash-2208 -->
 <div align="center">
-  <h2>🐍 Watch My Contributions Crawl 🐍</h2>
-  <br />
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-contribution-grid-snake.svg" />
-    <img src="https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-  </picture>
-</div>
 
-<hr />
+# 🌌 Hey there, I'm **Palash** 👋  
+### 🚀 Full Stack Developer | 💡 Tech Enthusiast | ⚽ Football Lover
 
-<!-- github stats -->
-<h2 align="center">📊 GitHub Stats 📊</h2>
-<br />
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=react&hide_border=true" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&border_color=61dafb" />
-      <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&border_color=61dafb" />
-    </picture>
-  </a>
-  <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-eight.vercel.app/?user=YOUR_GITHUB_USERNAME&theme=react&hide_border=true" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats-eight.vercel.app/?user=YOUR_GITHUB_USERNAME&theme=default&border=61dafb" />
-      <img width="48%" src="https://github-readme-streak-stats-eight.vercel.app/?user=YOUR_GITHUB_USERNAME&theme=default&border=61dafb" />
-    </picture>
-  </a>
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=Palash-2208&color=blueviolet&style=flat-square)
 
-<br />
+---
 
-<!-- activity graph -->
+### 🧠 About Me
+💻 Passionate about building scalable and efficient web applications.  
+🧩 Exploring new frameworks, clean architectures, and cloud deployments.  
+🛠️ Constantly learning and refining my craft.  
+⚽ Football enthusiast during off hours.  
+
+---
+
+### 🧰 Tech Stack
+
+#### 🌐 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+#### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+#### 🗄️ Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+#### ☁️ Deployment & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" />
-    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" />
-  </picture>
+
+![Palash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Palash-2208&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Palash-2208&layout=compact&theme=tokyonight&hide_border=true)
+
 </div>
 
-<hr />
+---
 
-<!-- repositories section -->
-<h2 align="center">📁 Featured Projects 📁</h2>
-<br />
+### 🐍 Watch My Contribution Snake!
+
 <div align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME/awesome-project-1">
-    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=awesome-project-1&theme=graywhite&border_radius=10" />
-  </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME/awesome-project-2">
-    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=awesome-project-2&theme=graywhite&border_radius=10" />
-  </a>
+  <img src="https://github.com/Palash-2208/Palash-2208/blob/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </div>
 
-<br /><br /><br />
+---
 
-<h4 align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME?tab=repositories">🔎 View All Repositories 🔍</a>
-</h4>
+### 📫 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/b-palash-3a11b51b2)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bpalash2208l@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Palash-2208)
+
+---
+
+⭐ *“Code. Learn. Repeat.”* ⭐  
+</div>
