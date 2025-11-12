@@ -4,7 +4,7 @@
 # 🌌 Hey there, I'm **Palash** 👋  
 ### 🚀 Full Stack Developer | 💡 Tech Enthusiast | ⚽ Football Lover
 
-![Profile Views](https://komarev.com/ghpvc/?username=Palash-2208&color=blueviolet&style=flat-square)
+
 
 ---
 
