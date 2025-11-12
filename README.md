@@ -54,10 +54,9 @@
 ---
 
 ### 🐍 Watch My Contribution Snake!
+![snake animation](https://github.com/Palash-2208/Palash-2208/blob/output/snake.svg)
 
-<div align="center">
-  <img src="https://github.com/Palash-2208/Palash-2208/blob/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</div>
+
 
 
 ### 📫 Connect With Me
