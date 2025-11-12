@@ -53,7 +53,7 @@
 
 ---
 
-### 🐍 Watch My Contribution Snake!
+### My Contribution !
 ![snake animation](https://github.com/Palash-2208/Palash-2208/blob/output/snake.svg)
 
 
